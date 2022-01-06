@@ -17,3 +17,4 @@ dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TA
 Music recommender systems can suggest songs to users based on their listening patterns.
 
 Dataset: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+Youtube: https://youtu.be/4WlHViHf2VY
