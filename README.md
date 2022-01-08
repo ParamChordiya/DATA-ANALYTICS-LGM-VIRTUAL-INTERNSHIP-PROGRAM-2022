@@ -25,7 +25,9 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 Dataset: Image Attached in repo
 
-## Task 5: Exploratory Data Analysis on Dataset - Terrorism
+# INTERMEDIATE LEVEL TASKS
+
+## Task 1: Exploratory Data Analysis on Dataset - Terrorism
 
 As a security/defense analyst, try to find out the hot zone of terrorism.
 
