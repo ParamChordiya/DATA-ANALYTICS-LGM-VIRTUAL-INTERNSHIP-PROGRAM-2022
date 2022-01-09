@@ -32,3 +32,11 @@ Dataset: Image Attached in repo
 As a security/defense analyst, try to find out the hot zone of terrorism.
 
 Dataset: https://bit.ly/2TK5Xn5
+
+## Task 2: Prediction using Decision Tree  Algorithm 
+
+Create the Decision Tree classifier and visualize it graphically. 
+
+The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly. 
+
+Dataset: https://bit.ly/3kXTdox
