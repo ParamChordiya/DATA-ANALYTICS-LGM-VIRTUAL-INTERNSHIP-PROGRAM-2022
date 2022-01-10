@@ -41,7 +41,7 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 
 Dataset: https://bit.ly/3kXTdox
 
-# ADVANCED LEVEL TASK
+# ADVANCED LEVEL TASKS
 
 ## Task 1: Develop A Neural Network That Can Read Handwriting
 
