@@ -26,6 +26,8 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 Dataset: Image Attached in repo
 
+Youtube: https://youtu.be/p8CXu-UeiXA
+
 # INTERMEDIATE LEVEL TASKS
 
 ## Task 1: Exploratory Data Analysis on Dataset - Terrorism
@@ -33,6 +35,8 @@ Dataset: Image Attached in repo
 As a security/defense analyst, try to find out the hot zone of terrorism.
 
 Dataset: https://bit.ly/2TK5Xn5
+
+Youtube: https://youtu.be/KLs-hBA4_ow
 
 ## Task 2: Prediction using Decision Tree  Algorithm 
 
@@ -42,6 +46,8 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 
 Dataset: https://bit.ly/3kXTdox
 
+Youtube: https://youtu.be/qcn4WMONBjY
+
 # ADVANCED LEVEL TASKS
 
 ## Task 1: Develop A Neural Network That Can Read Handwriting
@@ -50,8 +56,12 @@ Begin your neural network machine learning project with the MNIST Handwritten Di
 
 Datasets: https://en.wikipedia.org/wiki/MNIST_database
 
+Youtube: https://youtu.be/FbN0zgU1sFo 
+
 ## Task 2: Next Word Prediction
 
 Using Tensorflow and Keras library train a RNN, to predict the next word. 
 
 Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
+
+Youtube: https://youtu.be/GM87yK0_rtw
