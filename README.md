@@ -69,3 +69,19 @@ Using Tensorflow and Keras library train a RNN, to predict the next word.
 Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
 
 Youtube: https://youtu.be/GM87yK0_rtw
+
+## Task 3: Handwritten equation solver using CNN 
+
+Mathematical equation solver using character and symbol recognition using image processing and CNN. 
+
+Dataset: https://www.kaggle.com/xainano/handwrittenmathsymbols 
+
+Reference: https://towardsdatascience.com/computer-vision-auto-grading-handwritten-mathematical-answersheets-8974744f72dd
+
+Youtube: https://youtu.be/Fc1YBUMlhy8
+
+# MORE ADVANCED LEVEL TASK
+
+## Task 1: ML Facial recognition to detect mood and suggest songs accordingly
+
+Dataset: https://www.kaggle.com/msambare/fer2013
