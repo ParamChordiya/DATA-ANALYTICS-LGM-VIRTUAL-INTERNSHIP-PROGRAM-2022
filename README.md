@@ -85,3 +85,5 @@ Youtube: https://youtu.be/Fc1YBUMlhy8
 ## Task 1: ML Facial recognition to detect mood and suggest songs accordingly
 
 Dataset: https://www.kaggle.com/msambare/fer2013
+
+Youtube: https://youtu.be/IM-JKWvgTrk
