@@ -14,6 +14,8 @@ Youtube: https://youtu.be/Cd3g5m0lsi0
 
 dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
+Youtube: https://youtu.be/W_NIx3px8CY
+
 ## Task 3: Music Recommendation:
 
 Music recommender systems can suggest songs to users based on their listening patterns.
