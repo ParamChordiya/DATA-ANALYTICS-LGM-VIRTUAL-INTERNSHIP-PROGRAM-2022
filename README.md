@@ -17,6 +17,7 @@ dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TA
 Music recommender systems can suggest songs to users based on their listening patterns.
 
 Dataset: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
 Youtube: https://youtu.be/4WlHViHf2VY
 
 ## Task 4: Image to Pencil Sketch with Python:
@@ -48,3 +49,9 @@ Dataset: https://bit.ly/3kXTdox
 Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners
 
 Datasets: https://en.wikipedia.org/wiki/MNIST_database
+
+## Next Word Prediction
+
+Using Tensorflow and Keras library train a RNN, to predict the next word. 
+
+Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
