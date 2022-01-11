@@ -50,7 +50,7 @@ Begin your neural network machine learning project with the MNIST Handwritten Di
 
 Datasets: https://en.wikipedia.org/wiki/MNIST_database
 
-## Next Word Prediction
+## Task 2: Next Word Prediction
 
 Using Tensorflow and Keras library train a RNN, to predict the next word. 
 
