@@ -8,6 +8,8 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 Dataset: http://archive.ics.uci.edu/ml/datasets/Iris
 
+Youtube: https://youtu.be/Cd3g5m0lsi0
+
 ## Task 2: Stock Market Prediction And Forecasting Using Stacked LSTM
 
 dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
